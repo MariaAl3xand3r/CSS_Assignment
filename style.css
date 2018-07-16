@@ -1,0 +1,67 @@
+.header
+{
+	padding: 20px 0px;
+	border-bottom : 2px black;
+}
+.borders
+{
+	border-bottom : 1px solid #d1d1d1;
+}
+.rounded_orange
+{
+		border : 2px solid #f37321;
+		border-radius: 90px;
+		padding : 10px;
+	    color: #f37321;
+}
+.container1 {
+	
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+.textoverimage {
+    position: absolute;
+    top: 90px;
+    left: 60px;
+}
+.contact_us{
+font-size: 55px;
+}
+.logo{
+	width: 200px;
+}
+.span_css
+{
+	width: 150px; 
+	margin-left: 120px;
+}
+.span
+{
+	float:right;
+	margin-right: 100px;
+	line-height: 45px;
+}
+.span25{
+padding:0px 25px;
+
+}
+.bold_text{
+	color: #5f6062;
+	font-weight: bold;
+}
+.link_container{
+	margin-top: 40px;
+	margin-left:200px;
+	
+}
+.links{
+	color: #7f7e7e;
+}
+.banner
+{
+	width: 100%;
+}
